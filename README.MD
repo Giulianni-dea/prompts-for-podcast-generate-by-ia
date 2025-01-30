@@ -1,11 +1,10 @@
 <p align="center">
 <img 
     src="./assets/capa.jpg"
-    width="100"
 
 # Projeto Podcast Gerado por I.A.s
 
-Primeiro episódio do Podcast "O Novo Monolito: Uma Odisseia pela IA - Explorando o universo do Machine Learning sem mistérios" feito quase totalmente por IA generativa.
+Primeiro episódio do Podcast "Lady Coders: explorando a Inteligência Artificial Generativa"
 
 ## 💻 Tecnologias utilizadas no projeto
 
