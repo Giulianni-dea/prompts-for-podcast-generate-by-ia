@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="100" src=".github.com/Giulianni-dea/prompts-for-podcast-generate-by-ia/blob/main/output/Capa.jpg">
+    <img width="100" src=".github.com/Giulianni-dea/prompts-for-podcast-generate-by-ia/blob/main/output/Texto%20do%20seu%20par%C3%A1grafo.png">
 
 # Projeto Podcast Gerado por I.A.s
 
