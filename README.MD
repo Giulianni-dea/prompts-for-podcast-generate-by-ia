@@ -6,9 +6,9 @@
 
 # Projeto Podcast Gerado por I.A.s
 
-## <ins> </ins>	Primeiro episódio do Podcast "Lady Coders: Explorando a Inteligência Artificial Generativa"
+## Primeiro episódio do Podcast "Lady Coders: Explorando a Inteligência Artificial Generativa"
 
-<a href="output/Podcast (1).mp4"> 📕Clique aqui para ouvir</a>
+<a href="output/Podcast (1).mp4"> :headphones:Clique aqui para ouvir</a>
 
 
 ## 💻 Tecnologias utilizadas no projeto
