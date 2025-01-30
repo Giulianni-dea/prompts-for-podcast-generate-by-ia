@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="100" src=".github.com/assets/capa.jpg">
+    <img width="100" src=".github.com/output/capa.jpg">
 
 # Projeto Podcast Gerado por I.A.s
 
