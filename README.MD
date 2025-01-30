@@ -15,8 +15,8 @@
 
 - [COPILOT](https://copilot.microsoft.com/)
 - [CANVA](https://www.canva.com/)
-- [ELEVENLABS](https://beta.elevenlabs.io/)
-- [CAPCUT](https://www.capcut.com/pt-br/)
+- [ElevenLabs](https://beta.elevenlabs.io/)
+- [Capcut](https://www.capcut.com/pt-br/)
 
 ## ✨ Como foi feito ?
 
