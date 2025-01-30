@@ -8,7 +8,7 @@
 
 ## Primeiro episódio do Podcast "Lady Coders: Explorando a Inteligência Artificial Generativa"
 
-<a href="https://github.com/Giulianni-dea/lab-natty-or-not/blob/main/A-Magia-da-Inteligencia-Artificial-Generativa.pdf" title="View PDF now"> 📕Clique aqui para ouvir :EMOJICODE:microfone </a>
+<a href="output/Podcast (1).mp4"> 📕Clique aqui para ouvir</a>
 
 
 ## 💻 Tecnologias utilizadas no projeto
