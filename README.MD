@@ -22,7 +22,7 @@
 
 - Título/Subtítuilo e Roteiro gerado via Copilot
 - Audio gerado pela elevenLabs
-- Canva para gerar capas
+- CANVA para gerar capas
 - Capcut para tratar aúdio e adicionar sons de fundo
 
 Copilot
