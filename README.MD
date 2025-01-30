@@ -22,11 +22,15 @@
 - Canva Para gerar capas
 - Capcut para tratar aúdio e adicionar sons de fundo
 
+Copilot
+
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Criar título do Podcast - Copilot                                                |
-| Prommpt | Você é um roteirista de podcast, e vamos criar um podcast de tecnologia para o público feminino e eu gostaria de uma ajuda sua para criar 8 sugestões de nomes criativos para um podcast feito por mulheres nerds e influenciadoras, em que o podcast terá episódios explicados sobre Inteligência Artificial Gerativa. {REGRAS} - O título deve ter um nome e um subtítulo - O nome deve conter alguma palavra que remeta o público feminino.|
-
+|  título  | Criar título do Podcast                                                |
+| Prompt | Você é um roteirista de podcast, e vamos criar um podcast de tecnologia para o público feminino e eu gostaria de uma ajuda sua para criar 8 sugestões de nomes criativos para um podcast feito por mulheres nerds e influenciadoras, em que o podcast terá episódios explicados sobre Inteligência Artificial Gerativa. {REGRAS} - O título deve ter um nome e um subtítulo - O nome deve conter alguma palavra que remeta o público feminino.|
+| :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+|  título  | Criar título do Podcast                                                |
+| Prompt | Você é um roteirista de podcast, e vamos criar um podcast de tecnologia para o público feminino e eu gostaria de uma ajuda sua para criar 8 sugestões de nomes criativos para um podcast feito por mulheres nerds e influenciadoras, em que o podcast terá episódios explicados sobre Inteligência Artificial Gerativa. {REGRAS} - O título deve ter um nome e um subtítulo - O nome deve conter alguma palavra que remeta o público feminino.|
 
 
 ## 📚 Materiais
