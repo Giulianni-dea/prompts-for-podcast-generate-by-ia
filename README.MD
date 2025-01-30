@@ -1,6 +1,6 @@
 <p align="center">
-<img 
-    src="./assets/capa.jpg"
+  <img src="./assets/capa.jpg" alt="Capa">
+</p>
 
 # Projeto Podcast Gerado por I.A.s
 
