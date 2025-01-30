@@ -6,26 +6,25 @@
 
 # Projeto Podcast Gerado por I.A.s
 
-## Primeiro episódio do Podcast "Lady Coders: Explorando a Inteligência Artificial Generativa"
+## <ins> </ins>	Primeiro episódio do Podcast "Lady Coders: Explorando a Inteligência Artificial Generativa"
 
 <a href="output/Podcast (1).mp4"> 📕Clique aqui para ouvir</a>
 
 
 ## 💻 Tecnologias utilizadas no projeto
 
-- [Copilot](https://copilot.microsoft.com/)
-- [Canva](https://www.canva.com/)
-- [ElevenLabs](https://beta.elevenlabs.io/)
-- [Capcut](https://www.capcut.com/pt-br/)
+- [COPILOT](https://copilot.microsoft.com/)
+- [CANVA](https://www.canva.com/)
+- [ELEVENLABS](https://beta.elevenlabs.io/)
+- [CAPCUT](https://www.capcut.com/pt-br/)
 
 ## ✨ Como foi feito ?
 
-- Título/Subtítuilo e Roteiro gerado via Copilot
-- Audio gerado pela elevenLabs
+- Título/Subtítuilo e Roteiro gerado via COPILOT
+- Audio gerado pela ELEVENLABS
 - CANVA para gerar capas
-- Capcut para tratar aúdio e adicionar sons de fundo
-
-Copilot
+- CAPCUT para tratar aúdio e adicionar sons de fundo
+:EMOJICODE:COMPUTADOR  
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
