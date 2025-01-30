@@ -1,7 +1,7 @@
 <p align="center">
-    <img 
-        src="./output/capa.jpg">
-        width="100"
+<img 
+    src="./output/capa.jpg"
+    width="100"
 
 # Projeto Podcast Gerado por I.A.s
 
