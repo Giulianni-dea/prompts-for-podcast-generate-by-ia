@@ -1,5 +1,7 @@
 <p align="center">
   <img src="./assets/capa2.png" alt="Capa">
+  width="300"
+
 </p>
 
 # Projeto Podcast Gerado por I.A.s
