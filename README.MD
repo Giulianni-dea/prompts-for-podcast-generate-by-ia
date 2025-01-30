@@ -6,7 +6,7 @@
 
 # Projeto Podcast Gerado por I.A.s
 
-# Primeiro episódio do Podcast "Lady Coders: explorando a Inteligência Artificial Generativa"
+## Primeiro episódio do Podcast "Lady Coders: explorando a Inteligência Artificial Generativa"
 
 ## 💻 Tecnologias utilizadas no projeto
 
@@ -17,15 +17,15 @@
 
 ## ✨ Como foi feito ?
 
-- Roteiro gerado via Copilot
+- Título/subtítuilo e Roteiro gerado via Copilot
 - Audio gerado pela elevenLabs
-- Midjourney Para gerar capas
+- Canva Para gerar capas
 - Capcut para tratar aúdio e adicionar sons de fundo
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um e-book para crianças explicando sobre o tema Inteligência Artificial, o título deve ser lúdico e curto.                                                  |
-| conteúdo | Me escreva em formato de e-book explicando o que é a Inteligência Artificial Generativa em um estilo informal e descontraído, explique como se fosse para crianças de 6 a 10 anos|
+|  título  | Criar título do Podcast - Copilot                                                |
+| Prommpt | Você é um roteirista de podcast, e vamos criar um podcast de tecnologia para o público feminino e eu gostaria de uma ajuda sua para criar 8 sugestões de nomes criativos para um podcast feito por mulheres nerds e influenciadoras, em que o podcast terá episódios explicados sobre Inteligência Artificial Gerativa. {REGRAS} - O título deve ter um nome e um subtítulo - O nome deve conter alguma palavra que remeta o público feminino.|
 
 
 
