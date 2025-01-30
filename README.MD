@@ -18,6 +18,13 @@ Primeiro episódio do Podcast "O Novo Monolito: Uma Odisseia pela IA - Explorand
 - Midjourney Para gerar capas
 - Capcut para tratar aúdio e adicionar sons de fundo
 
+|   Ação   | prompt                                                                                                                                                                                                                                                                         |
+| :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+|  título  | Crie um título de um e-book para crianças explicando sobre o tema Inteligência Artificial, o título deve ser lúdico e curto.                                                  |
+| conteúdo | Me escreva em formato de e-book explicando o que é a Inteligência Artificial Generativa em um estilo informal e descontraído, explique como se fosse para crianças de 6 a 10 anos|
+
+
+
 ## 📚 Materiais
 
 - [Link da live no Youtube](https://www.youtube.com)
